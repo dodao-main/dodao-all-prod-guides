@@ -1,0 +1,540 @@
+categories:
+  - overview
+  - introduction
+content: Explains about various products of Aragon
+created: '2022-10-02T01:09:59.548Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: d949cc27-0134-4dc5-af8f-7724e2435b1b
+name: Intro to Aragon
+postSubmissionStepContent: >-
+  ### Connect with Aragon
+
+
+  [https://discord.com/invite/eqQJkdp](https://discord.com/invite/eqQJkdp)
+
+
+  [https://forum.aragon.org](https://forum.aragon.org)
+
+
+  ### RESOURCES
+
+  [https://connect.aragon.org/guides/getting-started](https://connect.aragon.org/guides/getting-started)
+
+
+  [https://connect.aragon.org/guides/aragon-basics](https://connect.aragon.org/guides/aragon-basics)
+
+
+  [https://aragon.org/aragon-voice#benefits](https://aragon.org/aragon-voice#benefits)
+
+
+  [https://andao.aragon.org/](https://andao.aragon.org/)
+
+
+  [https://client.aragon.org](https://client.aragon.org)
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: >+
+      ## About Aragon
+
+      Aragon allows you to quickly and easily create an organization that can
+      adapt to the various decentralization challenges. It offers a set of
+      applications and services that enable new forms of global community.
+
+
+      Tokens, currency, and capital assets are ways for communities to organize,
+      and these assets will gain in value as more people use and hold them.
+
+
+      In addition to providing basic financial tools like tokenization, Argon
+      can design reproducible and broadly applicable templates for defining the
+      boundaries of a community and transferring value to contributors over the
+      internet without traditional intermediaries. For instance, the solution
+      Aragon Court can be used to resolve dispute.
+
+
+      Aragon Protocol can be used to manage and create decentralized autonomous
+      organizations (DAOs) on top of the Ethereum blockchain, with plans to
+      expand to other chains in the future. It can also be used to create clubs,
+      companies, non-profits, and other organizations involved in finances and
+      decision-making through its decentralized apparatus.
+
+
+      ![Aragon](https://drive.google.com/uc?export=download&id=1vgMcTZxzh2sLroh-VzhTdRafNAZbgEng)
+
+
+      For Web3 communities and organizations, Aragon is building the future of
+      decentralized governance. Aragon's open-source stack allows you to deploy
+      a DAO, manage your community, solve disputes, and run enterprise-level
+      votes.
+
+
+      Aragon's native cryptocurrency, ANT and ANJ, is the heart of managing the
+      DAOs on its platform, allowing owners to vote on key decisions and also 
+      used to participate in the governance of the Aragon Network DAO and its
+      Aragon Court dispute resolution system.
+
+
+      Many communities are using Aragon DAO to build a decentralized economy
+      including BrightID, Decentraland, PieDAO, LexDAO, and many more.
+
+    name: Introduction
+    stepItems: []
+    uuid: a557e294-2af8-4ae1-b084-3a0a6336f0f9
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - answerKeys:
+          - 8a6e6499
+        choices:
+          - content: ANT and ANJ
+            key: 8a6e6499
+          - content: ANT and AJN
+            key: 376651b3
+          - content: AJN and ATN
+            key: 90beeb75
+          - content: AJN and AJNs
+            key: 2f35c9a4
+        content: What are the native currencies of Aragon?
+        type: SingleChoice
+        uuid: bfba9e7d-be15-4bdc-a0a1-f7bad3909dc4
+      - answerKeys:
+          - '4187e047'
+        choices:
+          - content: Aragon Network
+            key: 7cc704b0
+          - content: Aragon Court
+            key: '4187e047'
+          - content: Aragon court's vocdoni
+            key: aab9f482
+          - content: Afragon Govern
+            key: bb01d2d3
+        content: |+
+          Which Aragon’s solution can be used to resolve disputes?
+
+        type: SingleChoice
+        uuid: 24936f2b-6882-4ca1-b7fc-dc31fb41ac39
+      - answerKeys:
+          - ecdc5cf3
+          - 5393bac4
+        choices:
+          - content: 'Aragon Network '
+            key: 5985cbc0
+          - content: 'Aragon govern '
+            key: ecdc5cf3
+          - content: 'Aragon voice '
+            key: c5dc48de
+          - content: Aragon court
+            key: 5393bac4
+        content: Which solutions from Aragon flow together? (Two answer)
+        type: MultipleChoice
+        uuid: d39c9f36-01c3-4fad-b5af-2385c86b940b
+    uuid: 5fad0cfe-b415-4c28-be41-30468a714490
+  - content: >+
+      # Aragon Client and Aragon Govern 
+
+      You can create a DAO using Aragon, you can choose between Aragon’s client
+      or govern, and it depends on what you want to achieve.
+
+
+      ## Aragon client 
+
+
+      A toolkit for developers to create customizable online organizations aimed
+      at facilitating greater transparency. It is the portal to your
+      organization. Use the client to create your organization and navigate
+      between apps to perform actions. It can help fundraise, manage finances,
+      and reward contributors.
+
+
+      If you need a decentralized Human resource for your community, Aragon
+      client can provide all you need. 
+
+
+      * **Attract Contributions**: Automated payroll for contributors that join
+      your community and work together.
+
+      * **Pool Capital**: Gather funds from people around the world who share
+      common values.
+
+      * **Govern Transparently**: Participate in group decisions and make
+      financial decisions that are transparent.
+
+
+      Aragon client gives provide templates to make your creation of DAO easy,
+      and it also gives the admin and community access to
+
+      * Minime Token
+
+      * Traditional voted governance
+
+      * DAO templates
+
+      * Extensible with plugins
+
+      * Aragon Client is trusted by 2000+ DAOs.
+
+
+      ## Aragon Govern
+       An on-chain governance framework that supports frictionless DAO execution with plug-in dispute resolution. The benefits of using this framework include;
+      * **Simple and Low-cost** : Execute on-chain executions that can be
+      challenged in Aragon Court by any token holder.
+
+      * **Voteless Execution** : Assign orders, but avoid expensive, arduous
+      votes on uncontroversial matters.
+
+      * **Scalable governance** : Scalable and high-speed governance that
+      disables bad actors.
+
+      Aragon Govern creates DAOs in accordance with written, subjective
+      agreements between all participants. In order to reduce the scope of
+      interpretation, these documents should be written carefully and cover as
+      many scenarios as possible. However, any transaction that is deemed
+      contrary to the DAO agreement may be challenged in Aragon Court.
+
+
+      Aragon Govern provides Optimistic Governance for Web3 community.
+      Optimistic governance allows all proposals to be implemented except it is
+      challenge in Aragon court.
+
+
+      The Optimistic Governance model assumes that all actions are legitimate
+      until proven otherwise, sometimes called the 'lazy' consensus. As a
+      result, governance becomes an endless cycle of proposals that execute
+      automatically as on-chain transactions unless they are explicitly
+      challenged by the DAO in Aragon Court during Dispute Time Delay.
+
+
+      Aragon Govern gives admin and community access to 
+
+      * Optimistic governance
+
+      * ERC20 token
+
+      * Simple and cost effective
+
+      * Frictionless governance
+
+      * Fast decision making
+
+      * No voting needed
+
+    name: 'Aragon Client and Aragon Govern '
+    stepItems: []
+    uuid: c31d4e1f-167d-4490-9dc0-702fe8a1597d
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - e98a6948
+        choices:
+          - content: 'Voteless Execution '
+            key: 50cf8e0b
+          - content: 'Simple and Low-cost '
+            key: 7d83922a
+          - content: 'Friction governance '
+            key: e98a6948
+          - content: Fast decision-making
+            key: c008ab06
+        content: |+
+          Benefits of Aragon Govern include all except
+
+        type: SingleChoice
+        uuid: 5323f9db-c155-4a94-a99c-25423e10c987
+      - answerKeys:
+          - 41a8ea2a
+          - 8a325c9f
+          - 6970f22a
+        choices:
+          - content: 'Manage finances '
+            key: 8a325c9f
+          - content: 'Raise fund '
+            key: 41a8ea2a
+          - content: 'Sue offenders '
+            key: abd6b875
+          - content: 'Reward contributors '
+            key: 6970f22a
+        content: |+
+          Aragon client can help you (multiple choice)
+
+        type: MultipleChoice
+        uuid: 1ae7d9fa-220e-4c78-b09d-6568c26f67ad
+    uuid: e737b4f4-d193-4654-af3d-edc94c8a48d4
+  - content: >+
+      ## The Aragon Court
+
+      As an alternative to smart contracts, Aragon Court allows users to settle
+      disputes between organizations that are hosted on the Aragon network. It
+      can be used as a plug-in for any decentralized application and can be
+      accessed via API by any decentralized application (dApp) using the Aragon
+      OpenStack.
+
+
+      * **Subjective Dispute Resolution** : Smart contracts alone cannot resolve
+      subjective disputes that are not handled by a decentralized dispute
+      resolution protocol.
+
+      * **A Network of Guardians** : We are creating an international network of
+      incentivized guardians, ready to intervene in disputes and arbitrate the
+      results.
+
+      * **Human-centered Sybil Resistance** : Create well-written,
+      human-readable agreements that are protected by the Aragon Court.
+
+
+      The software allows other users (called jurors) to review arguments and
+      vote based on what they think about each dispute. ANT holders can become
+      jurors by exchanging their ANT coins for ANJ tokens, which must then be
+      staked, or locked in special contracts on the Aragon network. The more ANJ
+      a user stakes, the greater the chance they’ll be selected as a juror.
+
+
+      Jurors who resolve the argument receive rewards in ANT coins, and the DAO
+      updates any rules or outcomes in software programmatically.
+
+
+      Aragon court’s jurors can update to guardians. And these guardians stake a
+      token called ANT which allows them to be drafted into guardians and earn
+      fees for successfully adjudicating disputes.
+
+
+      The Aragon Court Dispute Lifecycle
+
+      * Dispute Creation and Evidence Submission
+
+      * Summoning Guardians
+       * Vote Commit
+      * Vote Reveal
+
+      * Appeal and Confirmation
+
+      * Final Ruling & Final Appeal Round
+
+
+      ## Aragon Voice
+       A decentralized, cost-effective, and secure solution for creating and managing proposals and voting. Aragon Voice powers unstoppable decentralized governance in Web 3.0 via its voting infrastructure. Providing premium ballots or permissionless signalling will boost your community engagement and trust. 
+
+      Benefits of Aragon voice include
+
+      * **Unique Guarantees** : Open source, and end-to-end verification of the
+      Ethereum main network as well as Aragon Layer 2 vote tallying.
+
+      * **Flexible & Modular** : Supports both single and multiple question
+      voting, as well as real-time or encrypted results. 
+
+      * **Free Voting** : Offering 100% free voting to token holders increases
+      engagement and participation levels.
+
+      * **Permissionless Voting** : Anyone can access and interact with AragonOS
+      voting infrastructure, which can be incorporated into any protocol or
+      dApp.
+
+
+      Aragon voice is building more features for its users including
+
+      * Insured binding execution using Aragon Court
+
+      * Free proposal creation
+
+      * Weighted voting
+
+      * Quadratic voting
+
+      * Range voting
+
+      * Multi-choice voting
+
+      * ERC-721 (NFT) voting
+
+    name: Aragon Court and Aragon Voice
+    stepItems: []
+    uuid: 3c869621-c94e-423c-b803-06f143929690
+  - content: ''
+    name: 'Evaluation '
+    stepItems:
+      - answerKeys:
+          - 856f926a
+        choices:
+          - content: 'Buy a form '
+            key: 142d0d8e
+          - content: 'Get 500 ATN '
+            key: 236233db
+          - content: 'Exchange ANT for ANJ and stake it,  '
+            key: 856f926a
+          - content: All of the above
+            key: 703948d8
+        content: |
+          How do one become a juror?
+        type: SingleChoice
+        uuid: 13a2507b-6994-4cfa-bb4b-4c7b44836ebc
+      - answerKeys:
+          - b6a56f16
+        choices:
+          - content: 'ANT coins '
+            key: b6a56f16
+          - content: 'ATN coins '
+            key: 34eaa3d9
+          - content: 'AJN coins '
+            key: d8c95831
+          - content: ANJ coins
+            key: 0ad79a5d
+        content: |+
+          When a Juror resolve an argument, what is their reward?
+
+        type: SingleChoice
+        uuid: 9d98e5db-5297-4b0f-9e69-3f5046884875
+      - answerKeys:
+          - 473e975a
+          - 9a25dfe0
+          - a7567b65
+        choices:
+          - content: 'Voice '
+            key: 9545130a
+          - content: Voting
+            key: 473e975a
+          - content: ' Tokens'
+            key: 9a25dfe0
+          - content: ' Appeal'
+            key: 23478c17
+          - content: ' Finances '
+            key: a7567b65
+        content: |+
+          The three pre-installed features of Aragon DAO are? (Select three)
+
+        type: MultipleChoice
+        uuid: fbf7550d-02de-44e8-98aa-18a4d6e74583
+    uuid: 7aa0bdb3-dfce-44f0-8044-941e3b5b323d
+  - content: >
+      ## Aragon network
+
+      A community of decentralized, autonomous organizations that interact via
+      the platform. The Aragon Network Token (ANT) is the main coordination
+      mechanism of the Aragon Network DAO. Holders of the ANT are able to make
+      proposals, vote on those proposals, and participate in the resolution of
+      disputes within the Aragon Network DAO. The structure as we shown above
+      include
+
+
+      * **Main DAO** : Open to all ANT holders. Make proposals and vote on the
+      way we use the DAO’s Investment Vault, and the rules governing the
+      community.
+
+      * **Executive sub-DAO** : Elected committee that facilitates strategic
+      alignment across the Aragon Network DAO and allocates funds from the
+      Sub-DAO’s treasury (The Operations Vault).
+
+      * **Compliance sub-DAO** : Elected committee that facilitates
+      conversations on ethics, risk and sustainability, and is equipped with
+      veto power to guard the network.
+
+      * **Tech committee** : Elected committee that checks and integrates code
+      submissions, and organizes tech audits as needed.
+
+      Aragon court: See details above
+
+
+      ## Vocdoni
+       An all-in-one secure voting platform by Aragon.  The Vocdoni project builds scalable, decentralized, universally verifiable and anonymous digital voting infrastructure. 
+
+      This project represents a new paradigm for digital voting as compared to
+      existing solutions which rely solely on a blockchain for vote
+      traceability, employ closed-source software and even operate as a
+      centralized service. 
+
+
+      The Vocdoni Platform is an Open Platform, where anyone can participate,
+      including voters, institutions, and third parties. To make decentralized
+      governance possible, it is crucial that any actor within the ecosystem can
+      integrate their own tools and services.
+
+      Its benefits include
+
+      * **Secure Voting** : a voting protocol that is both flexible and secure
+      and can be used for any type of voting process: single-choice, weighted,
+      and more to come.
+
+      * **Auditable and GDPR-compliant**: Our software offers legally auditable
+      reports on voting results as well as GDPR compliance to protect users'
+      privacy.
+
+      * **Complete Transparency**: The use of open-source code and extensive
+      technical and nontechnical documents ensures incomparable transparency for
+      developers and voters.
+
+
+      All aspects of Vocdoni voting protocol have been explicitly designed to be
+      secure.
+
+
+      We can create a secure, transparent and well-protected governance
+      infrastructure through the use of decentralized technologies.
+
+
+      We can also enable anonymous voting using cryptographic mechanisms, such
+      as zk-SNARKs, while maintaining complete transparency and auditability.
+
+
+      Vocdoni gives its user more control over their data by using a
+      self-sovereign identity scheme.
+
+      Keys identifying the user are generated and stored in the user's terminal
+      along with their other information. An exchange protocol allows you to
+      share the necessary credentials with the organization's servers so that
+      they can verify users.
+
+      A built-in consent mechanism generates a signature to indicate how the
+      data should be used. This allows complete control of the current and
+      historical use of the data by the user, while allowing organizations to
+      manage their data with full GDPR compliance.
+    name: Aragon Network and Vocdoni
+    stepItems: []
+    uuid: 3c617f58-96b2-4b12-93c6-f05cdc2a0a92
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - '57924305'
+        choices:
+          - content: Transparency
+            key: 96a250c2
+          - content: ' Auditable and GDPR-compliant'
+            key: 3287b071
+          - content: ' Easy payroll '
+            key: '57924305'
+          - content: 'Secure voting '
+            key: 4f7ee81b
+        content: |
+          Which is not the benefit of Vocdoni?
+        type: SingleChoice
+        uuid: 2253f4f8-b949-40ec-95ee-56b81ec7135e
+      - answerKeys:
+          - 1e2a33df
+        choices:
+          - content: 'Aragon court '
+            key: f241fde7
+          - content: 'Main DAO '
+            key: 63a77827
+          - content: Tech committee
+            key: 95d58028
+          - content: ' Aragon govern'
+            key: 1e2a33df
+        content: |+
+          Aragon network DAO include all except?
+
+        type: SingleChoice
+        uuid: d01c355b-8cc7-4261-aa96-15e75ad9c476
+    uuid: 15578eae-3d0d-4e70-94ae-35c4065c29a6
+  - content: ''
+    name: Connect with Aragon
+    stepItems:
+      - label: Nickname
+        required: true
+        type: PublicShortInput
+        uuid: 55b68971-29f6-4675-a44d-03e0d81aadec
+      - type: UserDiscordConnect
+        uuid: 9d710ac7-0e30-4d16-97cd-d21b8528ba33
+    uuid: ab117332-239c-4e17-af80-20359e90b00d
+thumbnail: ipfs://QmbeB3iboJf1trB9wkzqXbBzfwSmAb25PPS61MU1zLSLGz
+uuid: d949cc27-0134-4dc5-af8f-7724e2435b1b

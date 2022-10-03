@@ -2,7 +2,7 @@ categories:
   - general
   - products
 content: Learn the key concepts of the blockchain revolution.
-created: '2022-10-03T13:31:46.388Z'
+created: '2022-10-03T13:33:34.893Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: level-up
@@ -32,10 +32,12 @@ steps:
     name: Watch the lesson video
     stepItems: []
     uuid: cfa3473a-1189-4055-bc8d-2d8b4cb9356f
-  - content: >
+  - content: >-
       Let's test your understanding of how the Blockchain Revolution came about,
       and how Web3 protocols and applications contrast with their Web2
       counterparts.
+
+      <hr>
     name: Quiz - The Blockchain Revolution
     stepItems:
       - answerKeys:

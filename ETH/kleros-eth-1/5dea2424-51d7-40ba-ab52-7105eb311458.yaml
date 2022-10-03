@@ -2,13 +2,13 @@ categories:
   - products
   - sales
 content: Learn about network effects and how it can help your startup.
-created: '2022-10-03T13:54:24.875Z'
+created: '2022-10-03T14:05:41.984Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: level-up
 key: 5dea2424-51d7-40ba-ab52-7105eb311458
 name: 3. Network Effects
-publishStatus: Draft
+publishStatus: Live
 showIncorrectOnCompletion: true
 steps:
   - content: >-

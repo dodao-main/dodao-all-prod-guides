@@ -2,13 +2,13 @@ categories:
   - general
   - products
 content: Learn the key concepts of the blockchain revolution.
-created: '2022-10-03T13:41:09.276Z'
+created: '2022-10-03T14:05:15.545Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: level-up
 key: 5eb49111-2963-45fe-9dae-4676288350f4
 name: 1. The Blockchain Revolution
-publishStatus: Draft
+publishStatus: Live
 showIncorrectOnCompletion: true
 steps:
   - content: >-

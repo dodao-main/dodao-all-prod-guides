@@ -2,7 +2,7 @@ categories:
   - general
   - products
 content: Learn the key concepts of the blockchain revolution.
-created: '2022-10-03T13:35:52.855Z'
+created: '2022-10-03T13:37:30.530Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: level-up
@@ -86,8 +86,9 @@ steps:
           - e5d02553
         choices:
           - content: >-
-              Protocols become more dense as they are built on by other
-              protocol/projects, and sink into the bottom of the Protocol Sink.
+              Protocols become more 'dense' as they are built on by other
+              protocol/projects, and will tend to settle towards the bottom of
+              the Protocol Sink.
             key: 74464d6d
           - content: >-
               The more trustless, permissionless and credibly neutral a protocol

@@ -2,7 +2,7 @@ categories:
   - general
   - products
 content: Learn the key concepts of the blockchain revolution.
-created: '2022-10-03T13:33:34.893Z'
+created: '2022-10-03T13:35:52.855Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: level-up
@@ -43,11 +43,11 @@ steps:
       - answerKeys:
           - 78fbdb75
         choices:
-          - content: The 2000 dot-com crash
+          - content: The 2000 dot-com crash.
             key: 68d3f7cb
-          - content: The 2008 Global Financial Crisis (aka Great Recession)
+          - content: The 2008 Global Financial Crisis (aka Great Recession).
             key: 78fbdb75
-          - content: The 1929 stock market crash at the start of the Great Depression
+          - content: The 1929 stock market crash at the start of the Great Depression.
             key: 76c13440
         content: >-
           Which event precipitated the rise of Bitcoin and the Blockchain
@@ -76,6 +76,8 @@ steps:
   - content: >-
       The Protocol Sink Thesis is a great framework to understand the long-term
       viability of Web3 projects. Let's test our understanding of this concept!
+
+      <hr>
     name: Quiz - the Protocol Sink Thesis
     stepItems:
       - answerKeys:
@@ -101,7 +103,8 @@ steps:
             key: e5d02553
         content: >-
           Which of the following describes the Protocol Sink Thesis for
-          crypto-systems proposed by Ryan Sean Adam?
+          crypto-systems proposed by Ryan Sean Adam? Select all that are
+          correct.
         type: MultipleChoice
         uuid: d62d7ca8-728a-41be-a5ee-d58b2b8bfc0e
       - answerKeys:
@@ -120,6 +123,8 @@ steps:
   - content: >-
       Now, for the final quiz, let's test your knowledge on how and why to build
       in Web3!
+
+      <hr>
     name: Quiz - Building on Web3
     stepItems:
       - answerKeys:

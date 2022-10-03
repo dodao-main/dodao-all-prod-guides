@@ -2,7 +2,7 @@ categories:
   - general
   - products
 content: Learn the key concepts of the blockchain revolution.
-created: '2022-10-03T13:39:42.916Z'
+created: '2022-10-03T13:40:41.365Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: level-up
@@ -174,9 +174,10 @@ steps:
       course!
 
 
-      The homework for this lessons is to:
+      #### Homework
 
-      - Read the materials below to build an understanding of Web3.
+      The homework for this lessons is to read the materials below to build an
+      understanding of Web3.
 
 
       #### Further readings

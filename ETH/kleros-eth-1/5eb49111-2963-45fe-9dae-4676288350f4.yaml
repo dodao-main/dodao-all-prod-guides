@@ -2,7 +2,7 @@ categories:
   - general
   - products
 content: Learn the key concepts of the blockchain revolution.
-created: '2022-10-03T13:38:43.748Z'
+created: '2022-10-03T13:39:42.916Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: level-up
@@ -165,9 +165,7 @@ steps:
               A credible neutral protocol is built on rules that doesn't
               arbitrarily benefit some group of users over others.
             key: a76b4b47
-        content: >-
-          A credible neutral protocol is built on rules that doesn't arbitrarily
-          benefit some group of users over others.
+        content: What is a credibly neutral protocol?
         type: SingleChoice
         uuid: 3ce5b816-1a46-4179-bd5c-fc1f45096684
     uuid: 4be9c283-5da7-4718-931c-f56e9fc3873f

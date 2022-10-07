@@ -1,13 +1,13 @@
 categories:
   - community
 content: Guide for Aave contributors who need funding for ideas
-created: '2022-10-07T14:07:25.837Z'
+created: '2022-10-07T14:25:37.931Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
 key: b9d0a207-75cc-4e47-a7f6-1aa80526a390
 name: Aave Grants DAO Guide
-publishStatus: Live
+publishStatus: Draft
 showIncorrectOnCompletion: true
 steps:
   - content: >-

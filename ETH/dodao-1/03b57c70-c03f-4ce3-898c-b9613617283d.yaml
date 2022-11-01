@@ -1,0 +1,247 @@
+categories:
+  - marketing
+  - contentWriting
+content: Explains what type of content do we write on DoDAO
+created: '2022-11-01T09:45:40.407Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: 03b57c70-c03f-4ce3-898c-b9613617283d
+name: Content Writers Guide
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/qPKSf1V5Q14?controls=0" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+
+
+      DAOs are decentralized, transparent, autonomous, smart contract-based,
+      community-owned organizations that function without the presence of a
+      centralized structure, apex body and intermediaries. DAOs are the future
+      of work and will replace the traditional organizations quite soon in
+      various diverse segments.
+
+
+      DoDAO serves as the Wikipedia of DAOs by providing comprehensive and
+      holistic information about the DAOs. 
+
+
+      Detailed information plays a very important role in the adoption of new
+      processes or technology. DAOs transform the way we think and run
+      organizations and DoDAO tries to be part of this movement by being the
+      resource hub for DAOs providing educational content in the form of Blogs,
+      Information on DAOs &  DAO Frameworks, and News Articles. 
+    name: DoDAO Overview
+    stepItems: []
+    uuid: 49b55714-a7a6-467a-97f3-6c77ecc1966b
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - dog_or_cat
+        choices:
+          - content: Inform its users about Bitcoin news
+            key: dog_and_cat
+          - content: To provide holistic information about DAOs
+            key: dog_or_cat
+          - content: To inform the readers about happenings in the IT sector
+            key: only_dog
+          - content: To provide generic crypto information
+            key: only_cat
+        content: What is the aim of DoDAO? (Select only one option)
+        type: MultipleChoice
+        uuid: fa306208-ddd4-4d51-8831-2663c28b8306
+      - answerKeys:
+          - 3adafaf0
+        choices:
+          - content: Details and Updates about the DAOs
+            key: e43a079a
+          - content: Suggestions for the DAOs
+            key: 0993d3ea
+          - content: Tutorials to join and create a DAO
+            key: 4d6e5a8e
+          - content: All of the above
+            key: 3adafaf0
+        content: >
+          Which of the following information is covered by DoDAO? (Select only
+          one option)
+        type: MultipleChoice
+        uuid: a13fb6e1-9422-4e9a-897b-b961e580af7d
+    uuid: cd240128-14a2-4990-ab3b-0623531e78cf
+  - content: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/0PB_ns9ijjE" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+      We try to cover the most famous DAOs and DAO frameworks so that our
+      readers get information about how to operate DAOs and the software
+      products that help in creating and operating DAOs 
+
+
+      For each DAO we try to cover
+
+      * Vision and mission of the DAO, 
+
+      * The establishment, 
+
+      * Major events and timeline
+
+      * Membership criteria
+
+      * Tokenomics
+
+      * The unique features and uses along with the impact created by the DAO. 
+
+
+      For DAO Frameworks we cover
+
+      * Features of the product or framework
+
+      * Step by Step tutorial
+
+      * Competitors or Alternatives
+    name: DAO and DAO frameworks
+    stepItems: []
+    uuid: 17bfba4b-8d63-491f-8f4c-71f009396830
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - ad904462
+          - ebfafd89
+          - 59328d85
+        choices:
+          - content: 'Vision and mission of the DAO, '
+            key: ad904462
+          - content: Average compensation of DAO members
+            key: b0e12b0a
+          - content: What software languages it uses
+            key: 53645f88
+          - content: Major events and timeline
+            key: 59328d85
+        content: For each DAO we try to cover (Select two)
+        type: MultipleChoice
+        uuid: a2184a58-3362-42ca-aa85-8493bbc885b6
+    uuid: 72411d0a-e255-4b68-b6cb-998410c27db5
+  - content: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/ujGj2XyYgQc" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+      DoDAO provides updated content relating to the developments in the DAO
+      space.
+
+
+      Under the news segment, the readers can gain information regarding 
+
+      * Recent DAO launches, 
+
+      * Advancements in the preexisting DAOs
+
+      * Partnership deals, mergers and acquisitions in the DAO space
+
+      * Unique ventures and measures undertaken by the DAOs
+
+      * Updates about Hackathons being conducted by the DAOs
+
+      * Updated statistics pertaining to the DAOs 
+
+      Updates about airdrops and memberships
+
+
+      Under the Blogs section, the following information is covered
+
+      * Techniques used by the DAOs
+
+      * Opinionated posts 
+
+      * Laws and rules relating to the DAOs
+
+      * Ideas and Suggestions for the DAOs
+
+      * Important terminology associated with the DAOs
+
+      * Comparison and analysis articles
+    name: News and Blogs
+    stepItems: []
+    uuid: 751a2de5-d3d0-43b5-a607-75e56b64ad0e
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - 7973bc06
+          - edc0c37f
+        choices:
+          - content: Recent fluctuations in cryptocurrency tokens
+            key: 0f3e5d30
+          - content: Recent DAO launches and developments in the DAO space
+            key: 7973bc06
+          - content: Recent legislations relating to Blockchain
+            key: edc0c37f
+          - content: Recent developments in the corporate banking sector
+            key: e0ad8b03
+        content: >
+          Which of the following is covered by DoDAO, under the news section?
+          (Select two)
+        type: MultipleChoice
+        uuid: f7fe8198-0d93-4d7a-8a5a-8b3cf4ede146
+      - answerKeys:
+          - 547bce5a
+        choices:
+          - content: 'DAO Frameworks section '
+            key: 2c610bd3
+          - content: Blogs section
+            key: 547bce5a
+          - content: Contact us section
+            key: be44a249
+          - content: 'News section '
+            key: 76ef4829
+        content: >
+          The ideas, opinions and suggestions are covered under which of the
+          following sections? (Select one)
+        type: MultipleChoice
+        uuid: 935fc090-4bd7-4702-83f8-0d2884d8d4be
+    uuid: eab375d3-2791-4203-8d91-45c629c6e73e
+  - content: >
+      Individuals can connect with DoDAO via
+      [Discord](https://discord.gg/29Qqcua9)
+
+
+      The [DoDAO discord server](https://discord.gg/29Qqcua9) has separate
+      channels for rules, announcements, resources, meeting plans, content,
+      engineering and onboarding purposes to ensure member engagement.
+
+
+      Link to Discord Server -
+      [https://discord.gg/29Qqcua9](https://discord.gg/29Qqcua9)
+    name: Connect with us
+    stepItems: []
+    uuid: bdadde42-90f6-4134-b168-43a76dfd018c
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - 3ec940b8
+        choices:
+          - content: Discord
+            key: 3ec940b8
+          - content: Telegram
+            key: 472bab0c
+          - content: Linkedin
+            key: 574345ee
+          - content: Facebook
+            key: b17d98f7
+        content: What is the best way to get in touch with DoDAO team?
+        type: MultipleChoice
+        uuid: b9934459-848f-4f83-899e-6f172b1bcf4d
+    uuid: 07f3e577-116b-49ad-97e6-d275d5ce5102
+thumbnail: ipfs://QmUnDPor1uVquDTdgwnXtMsFQKFsthCE44uJTiFNeoJ6aK
+uuid: 03b57c70-c03f-4ce3-898c-b9613617283d

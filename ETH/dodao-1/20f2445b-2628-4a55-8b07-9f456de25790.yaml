@@ -1,0 +1,388 @@
+categories: []
+content: Create and publish the guide
+created: '2022-11-01T09:44:58.906Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: 20f2445b-2628-4a55-8b07-9f456de25790
+name: How to create a guide
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: >-
+      <div class="video-container">
+
+      <iframe
+      src="https://drive.google.com/file/d/1_cO5sldZsT68wqB9rFe9s0gcHtGlrnuf/preview"
+      class="responsive-video-iframe" allow="autoplay"></iframe>
+
+      </div>
+
+
+      One of the primary objectives of DoDAO is to provide authentic, reliable
+      and easy to understand information in order to simplify and facilitate the
+      process of onboarding.
+
+      DoDAO aims to make this onboarding process accessible, simplified and
+      detailed.The guides created by DoDAO serve as the medium to accomplish
+      this objective and ensure that the interested individuals are provided
+      with all the information needed to join the DAO community and start
+      contributing. 
+
+      Hence, the presence of contribution/joining and incentivization
+      information is a prerequisite for creating a guide.
+
+      This guide explains how to create a guide for contribution and onboarding.
+
+      This guide is the second step after picking a DAO and accumulating all the
+      relevant links.
+
+      Creating a guide is a simple and user-friendly process which involves
+      understanding of the project undertaken, gaining knowledge about the
+      contribution and incentivization mechanism and then curating the content
+      in a simplified and systematic manner.
+
+
+              
+    name: Introduction
+    stepItems: []
+    uuid: 847b91d3-0d66-4ab7-b43e-1b29f455519a
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - answerKeys:
+          - 18ee78f6
+        choices:
+          - content: To simplify the onboarding process
+            key: f64e0acd
+          - content: To help individuals gain information about various DAOs
+            key: 28d33e12
+          - content: >-
+              To make the contribution mechanism accessible to interested
+              individuals.
+            key: 279f50a6
+          - content: All of these
+            key: 18ee78f6
+        content: Q- What is the purpose of the guide?
+        type: SingleChoice
+        uuid: 8e2114f4-8022-4670-9935-99c70c70f715
+      - answerKeys:
+          - 0a07d34b
+          - 2d86e61d
+        choices:
+          - content: Contribution
+            key: 0a07d34b
+          - content: Governance
+            key: 0c5e147a
+          - content: Tokenomics
+            key: 26d0f867
+          - content: Incentivization
+            key: 2d86e61d
+        content: >-
+          Q- Which information is prerequisite for creating a guide? (Multiple
+          options)
+        type: MultipleChoice
+        uuid: 3f4c385b-a25d-4f03-88bb-93a16d1fa24f
+    uuid: dde980f6-9723-480f-b647-5b56808a71ff
+  - content: >
+      <div class="video-container">
+
+      <iframe
+      src="https://drive.google.com/file/d/1goDHyi9qkJ9EBqRH__Dt0cpBDgPRlTh0/preview"
+      class="responsive-video-iframe" allow="autoplay"></iframe>
+
+      </div>
+
+
+      This step involves in depth understanding of the links and the information
+      enclosed therein.
+
+
+      The prospective contributors need to note down all the relevant points
+      with respect to the guide and capture all the valuable information that
+      shall prove to be helpful to everyone who wishes to join the DAO.
+
+
+      The contributors, while curating the content, need to capture only the
+      relevant information pertaining to joining, contribution, incentivization
+      and connecting.
+
+
+      Here, the contributors need to visit the links for official documentation
+      and the social media handles mentioned in the word document in order to
+      filter out useful and relevant information.
+    name: Analyzing the Links
+    stepItems: []
+    uuid: 0b629f29-34b0-4906-9f7a-e1f936bb1bb0
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - eae658ce
+        choices:
+          - content: The word document submitted after research
+            key: eae658ce
+          - content: The official website of the DAO
+            key: 2ffc4018
+          - content: The Discord channel of the project
+            key: 65f49d0d
+          - content: None of these
+            key: 3a3e275a
+        content: >-
+          Q- Where shall the links for information to write the content be
+          available?
+        type: SingleChoice
+        uuid: a3358aee-3c06-46c1-ba25-5339091ab946
+      - answerKeys:
+          - 303b29b6
+        choices:
+          - content: >-
+              Only the relevant information pertaining to joining, contribution,
+              incentivization and connecting should be mentioned.
+            key: 303b29b6
+          - content: >-
+              All the information about the contributors, their qualifications
+              and their duties
+            key: a2eb5677
+          - content: >-
+              The history of  the proposals submitted in the governance forum
+              should be mentioned in the guide.
+            key: 534985d7
+          - content: None of these
+            key: 3dc45809
+        content: |
+          Q- Choose the correct statement.
+        type: SingleChoice
+        uuid: b22ca8a5-5e30-407d-b256-3723ada35157
+    uuid: e36e66ef-71b3-4efa-b317-0bf7096e6313
+  - content: >
+      <div class="video-container">
+
+      <iframe
+      src="https://drive.google.com/file/d/1cMNDcyRQuM57bHq5UfC-VO24kYR1BMvM/preview"
+      class="responsive-video-iframe" allow="autoplay"></iframe>
+
+      </div>
+
+
+
+
+      This step involves the actual writing of the guide after the analysis of
+      the links and the presence of all the relevant information. 
+
+
+      The following points should be included under respective heads-
+
+
+      1) **Introduction** - The mission, vision, purpose, features, distinctive
+      characteristics and objectives of the project.
+
+
+      2) **Contribution** - Step by step, simplified information regarding how
+      to join the DAO, how to make the contributions, which areas can the
+      interested individuals contribute in, what is the forum and procedure of
+      contributing should be mentioned in this step.
+
+
+      3) **Incentivization** - This step should include information pertaining
+      to how the contributors are compensated, what are the parameters used for
+      compensating the contributors and how would the contributors receive the
+      payments. 
+
+
+      4) **How to connect** - Various social media links to connect with the DAO
+      for gaining knowledge about upcoming events, developments and advancements
+      should be mentioned here. The links to social media handles including
+      Discord, Twitter, Gitbook, Reddit, Medium etc. should be added.
+    name: Content writing
+    stepItems: []
+    uuid: b33ecef4-155a-4ebe-abe0-20b6de4b0acd
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - 0ff4f23b
+        choices:
+          - content: How to join the DAO
+            key: 232a5655
+          - content: How to make the contributions
+            key: 802b8650
+          - content: Which areas can the interested individuals contribute in
+            key: 2de669f7
+          - content: All of these
+            key: 0ff4f23b
+        content: Q- What information should be added under the heading of contribution?
+        type: SingleChoice
+        uuid: 13ceb889-8a5d-4eda-95f9-8f2bf50b91b6
+      - answerKeys:
+          - 16f7a5a3
+        choices:
+          - content: 'How would the contributors receive the payments '
+            key: 025164c0
+          - content: What are the parameters used for compensation
+            key: 0cf132d7
+          - content: How the contributors are compensated
+            key: 3ce9947b
+          - content: All of these
+            key: 16f7a5a3
+        content: Q- What information should be added under Incentivization?
+        type: SingleChoice
+        uuid: 068ec844-dfdf-45e5-9a55-0dfa4987f167
+    uuid: 5ac8684a-750e-4559-b94c-52aac88c802e
+  - content: >
+      <div class="video-container">
+
+      <iframe
+      src="https://drive.google.com/file/d/1UJDZzaN2_Y9aC0XqDG9Ln4fi5iJDZbHY/preview"
+      class="responsive-video-iframe" allow="autoplay"></iframe>
+
+      </div>
+
+
+      The last stage of the guide involves adding the questions for each step
+      mentioned in the guide. These questions serve as an interesting testing
+      mechanism to assess the understanding of the individuals who went through
+      the guide. 
+
+
+      The contributors need to add 2-5 questions for the steps of Introduction,
+      how to contribute and incentivization based on the information present in
+      the guide.
+
+
+      The questions may be ranging from easy to medium difficulty level to
+      precisely check the understanding of the prospective contributors. These
+      questions need to be added in the word document for content. 
+
+
+      The questions can be single response or multiple response type of
+      questions with choices available.
+
+      After curating and mentioning the questions along with the options, the
+      content creators need to make the correct choices bold by formatting. 
+    name: Add questions
+    stepItems: []
+    uuid: 761e792b-cc78-4094-8892-427d49329f54
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - a33dcab4
+        choices:
+          - content: 1-2
+            key: 7ff38496
+          - content: 2-5
+            key: a33dcab4
+          - content: 5-7
+            key: 34d7f4be
+          - content: None of these
+            key: 6d1b5189
+        content: |
+          Q- How many questions should be included for each step?
+        type: SingleChoice
+        uuid: 73404230-a83e-4a50-a19d-4a4275f62c5a
+      - answerKeys:
+          - bd3c062e
+        choices:
+          - content: Multiple choice questions
+            key: bd3c062e
+          - content: Match the following
+            key: 7dd88a49
+          - content: Long form answers
+            key: 0fbb58bd
+          - content: Theoretical questions
+            key: 6a428463
+        content: |
+
+          Q- Which type of questions should be included?
+        type: SingleChoice
+        uuid: 1399dbee-9a8a-4147-845e-62d3b3bef7f8
+    uuid: 9ca8c657-3949-455d-93d0-37224f467a13
+  - content: >
+      <div class="video-container">
+
+      <iframe
+      src="https://drive.google.com/file/d/1XLAP3jaydmLaVEcMWmjtSCu7KRHK9IwX/preview"
+      class="responsive-video-iframe" allow="autoplay"></iframe>
+
+      </div>
+
+
+      After the document is created and all the content is added therein, the
+      contributors need to submit it for the review by the DoDAO team members.
+      The contributors need to ensure that the document is accessible and all
+      the required content for each step is included in the document along with
+      the questions.
+
+
+      After being accepted and approved by the DoDAO team, the content needs to
+      be added to the staging environment. After the publishing on the Staging
+      environment, the guide shall be live on the staging platform and can be
+      accessed by anyone.
+
+
+      The following steps should be followed for publishing the guide on the
+      staging platform after being reviewed-
+
+      1) Add the DAO in the staging environment by clicking on the plus icon.
+
+      2) Fill in add the details such as name, mission statement, network etc
+      and add the thumbnail picture. 
+
+      3) Click on create a guide option add add all the information step by step
+      by copying and pasting from the document.
+
+      4) Review the content added and click on publish. 
+
+
+      Here you go! The guide is published!
+    name: Publishing the guide
+    stepItems: []
+    uuid: 951d9fca-61eb-41f2-9636-fe91c635ed28
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - 40db3533
+        choices:
+          - content: 'The official documentation '
+            key: 5108bb6e
+          - content: The word document made earlier
+            key: 40db3533
+          - content: The medium articles
+            key: 366fdcd0
+          - content: The Twitter threads
+            key: cef8a1e3
+        content: >
+
+          Q- What should be the source of copying and pasting the content to the
+          guide?
+        type: SingleChoice
+        uuid: 0a2665a6-5656-4e7d-a11d-e18a3f6edb33
+      - answerKeys:
+          - 2e3f2419
+        choices:
+          - content: 'When they complete the guide '
+            key: caac39fa
+          - content: 'When they receive the payments '
+            key: 88d9cc05
+          - content: When the content is approved by the DoDAO team.
+            key: 2e3f2419
+          - content: When they join the DAO
+            key: e83f1715
+        content: >
+          Q- When can the contributors proceed with adding the guide to the
+          staging environment?
+        type: SingleChoice
+        uuid: dbcafc13-751a-40a5-8c1f-e34672acf9b8
+    uuid: f228cf0a-f6d1-459c-9acd-dcc0f994c0cb
+  - content: ''
+    name: Your contact information
+    stepItems:
+      - label: Full name
+        required: true
+        type: PublicShortInput
+        uuid: 9d7c92bd-6c41-4ff3-850f-c999415b533f
+    uuid: c41aa710-65dc-4789-8f82-5603070f1de0
+thumbnail: ipfs://QmRaCyVUPbkwBEw3kGohGriuijCD3YojMCVgoTeguW6rfB
+uuid: 20f2445b-2628-4a55-8b07-9f456de25790

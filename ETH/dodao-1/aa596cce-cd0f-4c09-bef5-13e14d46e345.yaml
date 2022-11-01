@@ -1,0 +1,417 @@
+categories:
+  - member
+content: Explains how to find a DAO for a guide
+created: '2022-11-01T09:44:18.200Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: aa596cce-cd0f-4c09-bef5-13e14d46e345
+name: How to find a DAO
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: >-
+      <iframe
+      src="https://drive.google.com/file/d/1ChlOVqg-W4L_sh20UDcfYqlPJflU-XqB/preview"
+      width="640" height="480" allow="autoplay"></iframe>
+
+
+      DoDAO serves as the Wikipedia of DAOs by providing comprehensive,
+      inclusive and holistic information about the DAOs.
+
+
+      The primary objective is to apprise the audiences of all the DAOs and
+      assist the interested individuals in the onboarding procedure.
+
+
+      Here, we create various guides in order to provide information about the
+      contribution methods, rewards and benefits and incentivization mechanism
+      of various decentralized Autonomous Organizations so as to facilitate the
+      process of onboarding and ensure that the interested individuals are
+      provided with all the information needed to join the DAO community and
+      start contributing. 
+
+      DoDAO aims to make this onboarding process accessible, simplified and
+      detailed.
+
+      To accomplish these objectives, the following elements relating to the DAO
+      are captured in each guide-
+
+
+      All the details of the project including the mission, vision purpose and
+      objectives of the DAO
+
+      Detailed information on “How to Contribute” including various venues,
+      methods and fields to contribute to the DAO.
+
+      All the Information relating to the rewards, benefits and incentives the
+      onboarded members shall receive.
+
+
+      The availability of above mentioned points is crucial for the guides.
+      Therefore, individuals can proceed forward with creating a guide if this
+      information is available.
+
+      Another important point to be noted here is that the individuals who have
+      taken up a DAO for creating a guide need to ensure that no one else has
+      previously covered this guide. The information about the guides covered is
+      available at the notion page.
+
+              
+    name: Introduction
+    stepItems: []
+    uuid: 34ad8bcf-8f6d-4638-9de1-708d467facfd
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - answerKeys:
+          - 1d97149b
+        choices:
+          - content: Facilitate the process of onboarding
+            key: 1d97149b
+          - content: Promote the cryptocurrency tokens
+            key: 57e0bb53
+          - content: Advertise various blockchains
+            key: c3d1c58c
+          - content: Allocate funds to the DAOs
+            key: 8a391dc5
+        content: |
+
+          Q- What is the purpose for creating the guides ?
+        type: SingleChoice
+        uuid: cb4df9e6-1a46-45b0-8ac1-0d26aa3811fc
+      - answerKeys:
+          - 67a990f9
+        choices:
+          - content: >-
+              Details of the project including the mission, objectives etc of
+              the DAO
+            key: 0dd870db
+          - content: Detailed information on “How to Contribute”.
+            key: 4af5c8fd
+          - content: Information relating to contribution
+            key: 8507f071
+          - content: All of these
+            key: 67a990f9
+        content: Q- Which information is required for creating the guides?
+        type: SingleChoice
+        uuid: d81ea42c-fe7e-466d-afca-b3044dd73f36
+      - answerKeys:
+          - 314b7745
+        choices:
+          - content: When they are a part of the DAO
+            key: 03528a48
+          - content: >-
+              When the information relating to contribution and rewards is
+              available
+            key: 314b7745
+          - content: When they have previously worked with the DAO
+            key: 50b9684b
+          - content: When they hold the associated tokens with the DAO
+            key: 1d9d593a
+        content: >
+
+          Q- When can the prospective contributors proceed with the creation of
+          a guide?
+        type: SingleChoice
+        uuid: c0c92c6e-c41b-4dee-874d-3d9bb08c5cc1
+      - answerKeys:
+          - 7fac3f6e
+        choices:
+          - content: 'True'
+            key: 7fac3f6e
+          - content: 'False'
+            key: a0b510b9
+        content: >
+          Q- State true or false-
+
+          The prospective contributors need to ensure that nobody else has made
+          a guide on that DAO via the notion page.
+        type: SingleChoice
+        uuid: 2ac02487-3834-466b-b06c-64fdc4f1980a
+    uuid: 273f12c9-de08-4c29-a0f9-e4e0ea9c9e5e
+  - content: >-
+      <iframe
+      src="https://drive.google.com/file/d/17osh_KNcHb-STFdaeb3etdOVCtdqWTEl/preview"
+      width="640" height="480" allow="autoplay"></iframe>
+
+
+      DAOs are the next big trend in the corporate world and are rapidly gaining
+      momentum. DoDAO aims to create onboarding guides for all the DAOs and
+      serve as a pioneer in this up and coming revolutionary DAO era. Here,
+      various valuable links are mentioned to find the DAOs.
+
+
+      The content creators need to pick up a DAO, find relevant information
+      about contribution and rewards thereafter. These links shall assist the
+      contributors in finding various DAOs. 
+
+
+      https://alpha.guild.xyz/
+
+
+      https://www.daomasters.xyz/
+
+
+      https://www.daolicious.xyz/Media
+
+
+      https://snapshot.org/#/
+
+
+      https://www.notion.so/fe8b3dc1f1d24f9bbc8192ee246ac18a?v=ea5d3439d7c7470c9421dab3688446ae
+
+
+      https://github.com/snapshot-labs/snapshot-spaces/blob/master/spaces/domains.json
+
+
+      https://top.gg/dao?page=4
+
+
+      https://directory.superdao.co/
+
+
+      https://sassy-sprint-edd.notion.site/ea1e4031fb524004af107a5e2b120fee?v=d97738ac1a2a455a841e247f3ee75c2a
+
+
+      https://open.harmony.one/funding
+
+
+      https://daocentral.com/
+
+
+      Here, before selecting a DAO for guide creation, two immensely important
+      aspects need to be considered -
+
+      * The contributors need to join the Discord channel and ensure that the
+      DAO has a minimum 2000 members.
+
+      * The contribution and incentivization information should be available
+      through various sources.
+
+
+
+      Make sure the DAO you are trying to target is not included in
+
+
+      https://eth.dodao.io/#/
+
+
+      https://sol.dodao.io/#/
+
+
+      https://one.dodao.io/#/
+
+
+      https://near.dodao.io/#/
+
+
+      https://staging.onboarding.dodao.io/#/
+    name: How to find a DAO
+    stepItems: []
+    uuid: e34928d9-27ae-41b2-8396-564c9bb50801
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - 6bfdb8c0
+        choices:
+          - content: Contribution and incentivization
+            key: 6bfdb8c0
+          - content: Governance and Tokenomics
+            key: 72e311e1
+          - content: Event and summits
+            key: cc2bc0e7
+          - content: None of these
+            key: 718f8bc0
+        content: >
+
+          Q- Availability of which information should be ensured before the
+          selection of a DAO?
+        type: SingleChoice
+        uuid: 898a357c-d42d-4ec1-b35c-74dbf884fa4a
+      - answerKeys:
+          - 6e647bc9
+        choices:
+          - content: '2000'
+            key: 6e647bc9
+          - content: '5000'
+            key: ace8c6c2
+          - content: '1000'
+            key: b01b27f3
+          - content: '10000'
+            key: ff811f45
+        content: >
+
+          Q- How many members should be present in the Discord channel of the
+          DAO to serve as a minimum threshold?
+        type: SingleChoice
+        uuid: d703b1c7-ad06-4042-a941-763668e719cb
+    uuid: f99bcef2-3faf-46d9-997c-420ab726771c
+  - content: >
+      <iframe
+      src="https://drive.google.com/file/d/1PJisLsOA4oiP2JLE0kTfT1rGjWJgoSRp/preview"
+      width="640" height="480" allow="autoplay"></iframe>
+
+
+      For creating the guide, accurate and authentic information is a
+      prerequisite. Before working on the guide the content writers need to
+      acquire all the information pertaining to the DAO.
+
+      Most of the projects have their official documentation available on their
+      website and social media handles. 
+
+
+      The content writers need to acquire and organize the information relating
+      to the introduction, contribution and incentivization of the DAO.
+
+      All the required information is present in the official documentation
+      which can be accessed from the official website of the DAO. 
+
+
+      The content creators can also find this information via the Discord,
+      Telegram and Twitter handle of the project. However, it must be ensured
+      that the information added is completely updated, precise, authentic,
+      accurate, detail oriented, serves the purpose and adds value to the
+      readers.
+    name: Finding the information
+    stepItems: []
+    uuid: 6f908a8d-f585-48c4-b8d9-b1b2006bd3b7
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - e649c525
+        choices:
+          - content: Through the official website
+            key: 61b09b38
+          - content: Through the official documentation
+            key: 954b91f2
+          - content: Through the twitter, telegram or discord handles
+            key: b4860c4c
+          - content: All of these
+            key: e649c525
+        content: >-
+          Q- How can the contributors find the required information needed to
+          create a DAO?
+        type: SingleChoice
+        uuid: f6e238ab-3593-40d6-8e58-e616460ccf7c
+      - answerKeys:
+          - 35f5f493
+          - '36334552'
+        choices:
+          - content: Information about contribution
+            key: 35f5f493
+          - content: Information about governance
+            key: 856f2a64
+          - content: Information about rewards
+            key: '36334552'
+          - content: Information about tokenomics
+            key: 1a73bf0e
+        content: >-
+          Q- What specific information needs to be searched and included in the
+          guides? (Multiple response question)
+        type: MultipleChoice
+        uuid: af500e03-82ba-482b-9181-765182bdcfe5
+    uuid: 78213941-d595-41b2-b306-dbc35843824f
+  - content: >-
+      <iframe
+      src="https://drive.google.com/file/d/1MIueQHv1BRWXNaTmh_E5bJuo9zFphrtH/preview"
+      width="640" height="480" allow="autoplay"></iframe>
+
+
+      After finding the information, there is the need to create a Word Document
+      with all the relevant information found along with the links to the
+      acquired information.
+
+      The content creators need to keep in mind that this step lays down only
+      the groundwork for writing a guide, and does not involve the actual
+      writing of the guide.
+
+      Finding this information and noting this should ideally take around 30
+      minutes to 2 hours of time.
+
+      Initially, this step may take a bit more time, but this shall prove to be
+      an extremely easy process thereafter.
+
+
+      The document needs to include all the information relating to the
+      contribution, incentivization, mission statement, vision of the DAO and
+      onboarding process along with the links.
+
+      If the content mentioned is accurate and appreciable, it shall be accepted
+      and the creators can then move on to the next step.
+
+
+      See example document:
+
+      https://docs.google.com/document/d/1mAUxFaxKyx_mDAssH4L5nj8O06QZrYPDAX1i9l3TrCU/edit?usp=sharing
+
+
+      <iframe
+      src="https://docs.google.com/document/d/e/2PACX-1vRTUX3ZMlCRbEBhj_UUsD1zfZn8fwR0cxoLdFHu5lWRxangYkLWO40daP5EZADf4hgqSSezYfMEt99u/pub?embedded=true"
+      style="width:640px; height:500px; border: 1px solid black;"></iframe>
+    name: Deliverables
+    stepItems: []
+    uuid: 2421961b-e122-48fb-828c-1ffd1c817056
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - 2db32ffa
+        choices:
+          - content: A word document with all the information added
+            key: 2db32ffa
+          - content: Discord link of the concerned project
+            key: 2e6299bb
+          - content: 'Token information of the project '
+            key: f4c74561
+          - content: None of these
+            key: 668c2690
+        content: Q- What is the deliverable associated with the guide?
+        type: SingleChoice
+        uuid: f32855dd-a1be-4a55-8ca5-9b59272b4047
+      - answerKeys:
+          - a85ecec9
+        choices:
+          - content: >-
+              The payments shall be made immediately after submission of the
+              word doc
+            key: 49f40e43
+          - content: The compensation shall be made on regular 15 day intervals.
+            key: 1d00b4c1
+          - content: >-
+              The contributors can move forward with the next step only if the
+              content is approved and accepted
+            key: a85ecec9
+          - content: None of these
+            key: ad198041
+        content: |
+
+          Q- Select the correct statement regarding the submission of word doc.
+        type: SingleChoice
+        uuid: 3ef163da-ffc7-4482-818e-67683c7a1bd0
+    uuid: f9fe8e06-bc40-4343-a87c-ccd6f510961b
+  - content: >
+      There are a plethora of benefits associated with the creation of guides.
+      The contributors shall learn and gain knowledge pertaining to diverse
+      projects which shall help them expand their horizon in the DAO space. 
+
+      DoDAO also provides monetary compensation for the guides created to reward
+      the contribution made by the contributors. For each project undertaken or
+      each DAO covered, the contributors shall be rewarded with $10. However, an
+      important point to note here is that the compensation shall be provided
+      only after the deliverable submitted is accepted.
+    name: ' Rewards'
+    stepItems: []
+    uuid: 99c226c9-7aab-4236-af1a-fb82041fb437
+  - content: ''
+    name: Your Info
+    stepItems:
+      - label: Full Name
+        required: true
+        type: PublicShortInput
+        uuid: 08d2ebd8-2430-4121-a604-a81bd1997c13
+    uuid: e3d0c223-cba0-4762-af6b-6747c1fc46c1
+thumbnail: ipfs://Qmbs2pafPxrd9Jz8z3bnsMthzSiE7NM8ZEjXoCh9YM3Lhq
+uuid: aa596cce-cd0f-4c09-bef5-13e14d46e345

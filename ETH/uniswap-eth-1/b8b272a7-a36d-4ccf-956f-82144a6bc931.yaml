@@ -1,0 +1,262 @@
+categories:
+  - marketing
+  - community
+content: Learn how to participate in the Community Analytics Programme
+created: '2023-04-06T15:45:04.251Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: b8b272a7-a36d-4ccf-956f-82144a6bc931
+name: Community Analytics Program
+publishStatus: Draft
+showIncorrectOnCompletion: true
+steps:
+  - content: >-
+      # Overview of Uniswap Community Analytics Program
+
+
+      Uniswap is a leading decentralized crypto trading protocol that allows
+      users to swap, earn and build on the Uniswap protocol. There are basically
+      four components of Uniswap. They are:
+
+      1. Uniswap labs refer to the company that built the Uniswap protocol
+      alongside the web interface.
+
+      2. Uniswap protocol is a non-upgradable smart contract that allows for
+      peer-to-peer market makers to provide liquidity while making it easy for
+      people to swap ERC-20 tokens.
+
+      3. The Uniswap Interface is the web interface that allows easy access to
+      the Uniswap protocol.
+
+      4. The Uniswap governance is the community governance of the Uniswap
+      protocol made possible by the UNI token.
+    name: Overview
+    stepItems: []
+    uuid: 7a44e472-3e71-40d3-a8e0-9b820c70d558
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - dog_and_cat
+          - dog_or_cat
+          - 417c90e5
+          - 15ff7302
+        choices:
+          - content: Uniswap Labs
+            key: dog_and_cat
+          - content: Uniswap Governance
+            key: dog_or_cat
+          - content: Uniswap Chain
+            key: only_dog
+          - content: Uniswap Academy
+            key: only_cat
+          - content: Uniswap Interface
+            key: 417c90e5
+          - content: Uniswap Protocol
+            key: 15ff7302
+        content: What are the four components of Uniswap? (Select four)
+        type: MultipleChoice
+        uuid: dcc30b00-3216-4997-a91c-fcfdd2a497db
+      - answerKeys:
+          - 459b1509
+          - 282246ae
+          - d6851a2f
+        choices:
+          - content: Swap
+            key: 459b1509
+          - content: Earn
+            key: 282246ae
+          - content: 'Build '
+            key: d6851a2f
+          - content: Tolerate
+            key: be6528df
+        content: What does Uniswap provide its users? (Select three)
+        type: MultipleChoice
+        uuid: 5f3b3ad5-810f-4665-abe3-b083723debea
+    uuid: b80436cf-c7f0-4eee-b124-e468b6062966
+  - content: >-
+      # Community Analytics Program
+
+
+      The community analytics program was designed to crowdsource insights from
+      Uniswap data for information it needs as well as onboard new members into
+      the community. 
+
+
+      The program runs as a bounty competition on a bi-weekly basis. At the end
+      of each competition, UNI governance tokens are distributed based on
+      performance.
+
+
+      With this program, members of the community can be educated on the
+      information gathered which will eventually drive growth.
+    name: Community Analytics Program
+    stepItems: []
+    uuid: ff19ae61-6327-4498-9a1f-b8681dcc751d
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - bde5665c
+          - 12584f5c
+          - 123d80e6
+        choices:
+          - content: Crowdsource insight from data
+            key: bde5665c
+          - content: Onboard new members
+            key: 12584f5c
+          - content: Trade with members
+            key: 9b83ea33
+          - content: Educate members
+            key: 123d80e6
+        content: >-
+          Why was the community analytics program designed? (Select all that
+          apply)
+        type: MultipleChoice
+        uuid: 9107f8a6-0f04-46fe-85cc-4edbb4b1c826
+    uuid: 689e151d-651d-42d6-ae7d-9c3c35cf501e
+  - content: >
+      # How to Participate
+
+
+      - Join the [Discord Server](https://discord.gg/FCfyBSbCU5) to be notified
+      when bounties are posted
+
+      - Bounties are posted
+      [here](https://unigrants.notion.site/d86a5d86828e45ceb0de26867db6b966?v=4e2bafed1f074a13862ac885e0decf6b)
+      every two weeks for everyone to work on.
+
+      - Have your work done in any format of your choice (e.g. dashboards, data
+      analysis articles, interactive visualization or data-backed commentary).
+
+      - Submit your work [here](https://airtable.com/shrr5V3MPiVEcKhma).
+
+      ---
+
+      # Evaluation Criteria
+
+
+      1. **Accuracy & completeness**: Accurate data is presented and the work is
+      complete
+
+      2. **Clarity**: Visualizations and data are well explained and easily
+      understandable for readers. Only relevant information forms part of the
+      analysis.
+
+      3. **Insights & originality**: Participants clearly explain the thesis of
+      the data shown. Bonus points for extra insights or points of interest
+      identified.
+    name: How to Participate
+    stepItems: []
+    uuid: dce89876-5acb-471f-bc3d-5e9b502942fd
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - dc1dee30
+          - 596e9e2b
+          - fc3b9a63
+          - d51bd891
+        choices:
+          - content: Interactive Visualizations
+            key: dc1dee30
+          - content: Dashboards
+            key: 596e9e2b
+          - content: Data Analysis Articles
+            key: fc3b9a63
+          - content: MP3 Format
+            key: 1c9562f7
+          - content: Data-Backed Commentary
+            key: d51bd891
+        content: >-
+          What formats can participants submit their work in? (Select all that
+          apply)
+        type: MultipleChoice
+        uuid: 206eb733-b21b-4fcb-9830-eae1b451f538
+    uuid: 8ecaed8d-7706-4d90-9f1c-d9c760336d63
+  - content: >-
+      # Rewards for Participating
+
+
+      The reward for winning the bounty goes to the top three participants. 
+
+      - The first prize is $1500
+
+      - The second prize is $1000
+
+      - The third prize is $500
+
+      - A $100 consolation prize is shared to each of the first 20 submissions
+      excluding the winners of the bounty.
+
+      - All rewards are paid in UNI
+    name: Rewards for Participating
+    stepItems: []
+    uuid: 7473c5e8-4c33-480f-b654-bf455307e8d2
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - 2f278936
+          - 45385b82
+        choices:
+          - content: First price is $1500
+            key: 2f278936
+          - content: Third price is $2000
+            key: b183134a
+          - content: Second price is $1000
+            key: 45385b82
+          - content: Winner takes all
+            key: 80ae2c1c
+        content: Which of these is correct about the rewards? (Select two)
+        type: MultipleChoice
+        uuid: cbd90401-1ec7-499a-b347-c302a02f1c44
+      - answerKeys:
+          - 002cc00b
+        choices:
+          - content: $50
+            key: 9069caec
+          - content: $100
+            key: 002cc00b
+          - content: $150
+            key: 93005a6b
+          - content: $500
+            key: 9ac21857
+        content: >-
+          What do the first 20 submissions apart from the winners get? (Select
+          only one option)
+        type: MultipleChoice
+        uuid: feb05c80-de47-418c-8ba1-1af8a7e9ed37
+      - answerKeys:
+          - 3d8cdf48
+        choices:
+          - content: USDT
+            key: 94214d04
+          - content: USDC
+            key: 25720f95
+          - content: UNI
+            key: 3d8cdf48
+          - content: ETH
+            key: 4954477d
+        content: What currency are the rewards paid in? (Select only one option)
+        type: MultipleChoice
+        uuid: 1c9cefaf-6172-4acb-9f4c-13ef75035254
+    uuid: d2ded738-e6d9-4fa4-aa2e-f9a484f0e52b
+  - content: >-
+      # Join Us
+
+
+      You can also become a member of the Uniswap community by connecting with
+      us via the links below:
+
+      - Discord https://discord.gg/FCfyBSbCU5
+
+      - Twitter https://twitter.com/Uniswap
+
+      - Github https://github.com/Uniswap
+    name: Join Us
+    stepItems: []
+    uuid: f9ef9354-16d8-458a-8b2f-94ed2915b071
+thumbnail: ipfs://QmXfZ5MNdpSwM3LPy3XpKt6u9JkHzhgEcHA57mbMjtyfR4
+uuid: b8b272a7-a36d-4ccf-956f-82144a6bc931
